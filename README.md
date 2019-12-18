@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+My name is Sydney Robertson.
+
+# I added a sentence saying what my name is.
